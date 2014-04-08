@@ -27,3 +27,7 @@ level 6
 [Tyler](https://github.com/tylermauthe) told me his solution, and I couldn't unthink it
 
 https://gist.github.com/anonymous/d9a0dcdd111003168311
+
+level 7
+
+https://gist.github.com/anonymous/f990ea62525c6a24b95f
